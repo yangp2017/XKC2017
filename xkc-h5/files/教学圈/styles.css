@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:414px;
-  height:736px;
+  height:718px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -34,12 +34,12 @@
   left:0px;
   top:0px;
   width:414px;
-  height:736px;
+  height:718px;
 }
 #u27 {
   position:absolute;
   left:2px;
-  top:360px;
+  top:351px;
   width:410px;
   visibility:hidden;
   word-wrap:break-word;
@@ -151,7 +151,7 @@
 #u34 {
   position:absolute;
   left:0px;
-  top:686px;
+  top:668px;
   width:413px;
   height:50px;
   font-family:'微软雅黑';
@@ -183,8 +183,8 @@
 }
 #u37 {
   position:absolute;
-  left:78px;
-  top:691px;
+  left:81px;
+  top:669px;
   width:23px;
   height:23px;
 }
@@ -205,8 +205,8 @@
 }
 #u39 {
   position:absolute;
-  left:198px;
-  top:691px;
+  left:201px;
+  top:669px;
   width:23px;
   height:23px;
 }
@@ -227,8 +227,8 @@
 }
 #u41 {
   position:absolute;
-  left:71px;
-  top:716px;
+  left:74px;
+  top:694px;
   width:37px;
   height:16px;
   font-family:'微软雅黑';
@@ -254,8 +254,8 @@
 }
 #u43 {
   position:absolute;
-  left:185px;
-  top:716px;
+  left:188px;
+  top:694px;
   width:49px;
   height:16px;
   font-family:'微软雅黑';
@@ -280,8 +280,8 @@
 }
 #u45 {
   position:absolute;
-  left:318px;
-  top:691px;
+  left:321px;
+  top:669px;
   width:23px;
   height:23px;
 }
@@ -302,8 +302,8 @@
 }
 #u47 {
   position:absolute;
-  left:317px;
-  top:716px;
+  left:320px;
+  top:694px;
   width:25px;
   height:16px;
   font-family:'微软雅黑';
@@ -321,8 +321,8 @@
 }
 #u49 {
   position:absolute;
-  left:180px;
-  top:686px;
+  left:183px;
+  top:668px;
   width:60px;
   height:50px;
   overflow:hidden;
@@ -330,8 +330,8 @@
 }
 #u50 {
   position:absolute;
-  left:300px;
-  top:686px;
+  left:303px;
+  top:668px;
   width:60px;
   height:50px;
   overflow:hidden;
@@ -342,7 +342,7 @@
   left:0px;
   top:45px;
   width:414px;
-  height:641px;
+  height:623px;
   overflow:hidden;
 }
 #u51_state0 {
@@ -350,7 +350,7 @@
   left:0px;
   top:0px;
   width:414px;
-  height:641px;
+  height:623px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
