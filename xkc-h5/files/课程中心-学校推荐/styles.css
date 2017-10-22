@@ -2328,6 +2328,15 @@
 }
 #u390 {
   position:absolute;
+  left:25px;
+  top:174px;
+  width:166px;
+  height:170px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u391 {
+  position:absolute;
   left:222px;
   top:0px;
   width:87px;
