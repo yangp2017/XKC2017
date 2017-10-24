@@ -1870,3 +1870,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u744_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:25px;
+}
+#u744 {
+  position:absolute;
+  left:195px;
+  top:678px;
+  width:25px;
+  height:25px;
+}
+#u745 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
