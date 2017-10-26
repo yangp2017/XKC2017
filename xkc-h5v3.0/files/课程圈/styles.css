@@ -15,9 +15,9 @@
 #u26 {
   position:absolute;
   left:0px;
-  top:45px;
+  top:0px;
   width:414px;
-  height:673px;
+  height:718px;
   overflow:hidden;
 }
 #u26_state0 {
@@ -25,7 +25,7 @@
   left:0px;
   top:0px;
   width:414px;
-  height:673px;
+  height:718px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -44,7 +44,7 @@
   left:0px;
   top:0px;
   width:414px;
-  height:672px;
+  height:717px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -61,12 +61,12 @@
   left:0px;
   top:0px;
   width:414px;
-  height:672px;
+  height:717px;
 }
 #u28 {
   position:absolute;
   left:2px;
-  top:328px;
+  top:350px;
   width:410px;
   visibility:hidden;
   word-wrap:break-word;
@@ -96,7 +96,7 @@
 #u29 {
   position:absolute;
   left:0px;
-  top:612px;
+  top:657px;
   width:414px;
   height:60px;
   font-family:'新宋体 常规', '新宋体';
@@ -129,7 +129,7 @@
 #u32 {
   position:absolute;
   left:76px;
-  top:476px;
+  top:521px;
   width:61px;
   height:61px;
 }
@@ -151,7 +151,7 @@
 #u34 {
   position:absolute;
   left:177px;
-  top:476px;
+  top:521px;
   width:61px;
   height:61px;
 }
@@ -173,7 +173,7 @@
 #u36 {
   position:absolute;
   left:278px;
-  top:476px;
+  top:521px;
   width:61px;
   height:61px;
 }
@@ -195,7 +195,7 @@
 #u38 {
   position:absolute;
   left:92px;
-  top:492px;
+  top:537px;
   width:30px;
   height:30px;
 }
@@ -217,7 +217,7 @@
 #u40 {
   position:absolute;
   left:193px;
-  top:492px;
+  top:537px;
   width:30px;
   height:30px;
 }
@@ -239,7 +239,7 @@
 #u42 {
   position:absolute;
   left:294px;
-  top:492px;
+  top:537px;
   width:30px;
   height:30px;
 }
@@ -261,7 +261,7 @@
 #u44 {
   position:absolute;
   left:94px;
-  top:547px;
+  top:592px;
   width:25px;
   height:16px;
   font-family:'微软雅黑';
@@ -286,7 +286,7 @@
 #u46 {
   position:absolute;
   left:195px;
-  top:547px;
+  top:592px;
   width:25px;
   height:16px;
   font-family:'微软雅黑';
@@ -311,7 +311,7 @@
 #u48 {
   position:absolute;
   left:296px;
-  top:547px;
+  top:592px;
   width:25px;
   height:16px;
   font-family:'微软雅黑';
@@ -329,7 +329,7 @@
 #u50 {
   position:absolute;
   left:157px;
-  top:612px;
+  top:657px;
   width:100px;
   height:60px;
   overflow:hidden;
@@ -352,7 +352,7 @@
 #u52 {
   position:absolute;
   left:79px;
-  top:150px;
+  top:195px;
   width:99px;
   height:99px;
 }
@@ -386,7 +386,7 @@
 #u54 {
   position:absolute;
   left:188px;
-  top:181px;
+  top:226px;
   width:148px;
   height:38px;
   font-family:'华文新魏 Bold', '华文新魏';
