@@ -29,7 +29,7 @@ h1,h2,h3,h4{font-weight: 400;}
 .top-banner .text .info{ width: 90%; margin: 20px 5% 0; padding: 0; }
 .top-banner .text  .tit{ font-size: 1.3em; color: #fff; text-align: center; width: 100%;}
 .top-banner .text .intr{ color: #fff; position: absolute; right: 3%; bottom: 10px; font-size: 14px;}
-.top-banner .text .intr strong{font-size:1.2em;margin: 0 2px; font-weight: 400;}
+.top-banner .text .intr strong{font-size:1.5em;margin: 0 2px; font-weight: 400;}
 .top-banner .text .intr span{ margin: 0 5px;}
 .top-banner .text  .remark{padding:5px 0; width: 20%;background: url("../images/state_bg.png") no-repeat  scroll 0 0/100% 100% border-box border-box; color: #fff; margin: 5px auto 0; text-align: center;}
 .bottom_btn .ub-f1{font-size: 12px;}
