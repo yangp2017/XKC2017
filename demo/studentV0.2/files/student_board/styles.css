@@ -4608,15 +4608,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:19px;
-  height:19px;
+  width:15px;
+  height:15px;
 }
 #u302 {
   position:absolute;
-  left:182px;
-  top:149px;
-  width:19px;
-  height:19px;
+  left:186px;
+  top:146px;
+  width:15px;
+  height:15px;
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -4625,8 +4625,9 @@
 #u303 {
   position:absolute;
   left:2px;
-  top:1px;
-  width:15px;
+  top:0px;
+  width:11px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u304_div {
@@ -5023,21 +5024,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:47px;
-  height:42px;
+  width:56px;
+  height:50px;
 }
 #u329 {
   position:absolute;
-  left:533px;
-  top:167px;
-  width:47px;
-  height:42px;
+  left:528px;
+  top:164px;
+  width:56px;
+  height:50px;
 }
 #u330 {
   position:absolute;
   left:2px;
-  top:13px;
-  width:43px;
+  top:17px;
+  width:52px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -5083,10 +5084,10 @@
 }
 #u333 {
   position:absolute;
-  left:516px;
+  left:121px;
   top:149px;
   width:80px;
-  height:109px;
+  height:110px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
