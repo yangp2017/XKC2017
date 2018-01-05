@@ -5331,13 +5331,16 @@
   width:73px;
   height:30px;
   background:inherit;
-  background-color:rgba(228, 228, 228, 1);
-  border:none;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(215, 215, 215, 1);
   border-radius:8px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  color:#1D9ED7;
+  color:#FF0000;
 }
 #u351 {
   position:absolute;
@@ -5345,7 +5348,7 @@
   top:381px;
   width:73px;
   height:30px;
-  color:#1D9ED7;
+  color:#FF0000;
 }
 #u352 {
   position:absolute;
