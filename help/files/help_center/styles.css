@@ -503,3 +503,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u36_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:37px;
+}
+#u36 {
+  position:absolute;
+  left:1343px;
+  top:455px;
+  width:150px;
+  height:37px;
+  font-family:'华文中宋';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:center;
+}
+#u37 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}
