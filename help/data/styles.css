@@ -57,3 +57,14 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
+._连接线 {
+  font-family:'微软雅黑';
+  font-weight:402;
+  font-style:normal;
+  font-size:14px;
+  color:#FF0000;
+  text-align:center;
+  line-height:normal;
+}
