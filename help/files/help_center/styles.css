@@ -20,8 +20,11 @@
   width:1275px;
   height:336px;
   background:inherit;
-  background-color:rgba(251, 251, 251, 1);
-  border:none;
+  background-color:rgba(252, 252, 252, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(217, 240, 251, 1);
   border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
