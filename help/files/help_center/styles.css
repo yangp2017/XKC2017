@@ -4061,7 +4061,8 @@
   top:150px;
   width:66px;
   height:24px;
-  color:#666666;
+  text-decoration:underline;
+  color:#0000FF;
 }
 #u265 {
   position:absolute;
