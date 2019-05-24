@@ -53,9 +53,11 @@
 ._文本段落 {
   text-align:left;
 }
+._流程形状 {
+}
 ._连接线 {
   font-family:'微软雅黑';
-  font-weight:400;
+  font-weight:402;
   font-style:normal;
   font-size:18px;
   color:#FF0000;
