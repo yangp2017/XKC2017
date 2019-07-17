@@ -287,8 +287,8 @@ ul,li{ padding:0; margin:0; list-style:none;}
 /*pending*/
 .pending{padding-right: 12px;padding-left: 12px;}
 .tab-bar .tab-left,.tab-right{width: 50%;}
-.tab-bar .tab-left a{height:36px;width:100%;border: 1px solid #28ce57;border-bottom-left-radius:8px;border-top-left-radius: 8px;text-align: center;line-height: 36px;font-size: 14px;color: #888;display:inline-block;}
-.tab-bar .tab-right a{height:36px;width:100%;border: 1px solid #28ce57;border-bottom-right-radius:8px;border-top-right-radius: 8px;text-align: center;line-height: 36px;font-size: 14px;color: #888;display:inline-block;}
+.tab-bar .tab-left a{height:36px;width:100%;border: 1px solid #28ce57;border-bottom-left-radius:6px;border-top-left-radius: 6px;text-align: center;line-height: 36px;font-size: 14px;color: #888;display:inline-block;}
+.tab-bar .tab-right a{height:36px;width:100%;border: 1px solid #28ce57;border-bottom-right-radius:6px;border-top-right-radius: 6px;text-align: center;line-height: 36px;font-size: 14px;color: #888;display:inline-block;}
 .tab-bar-hover{background-color:#28ce57;color:white!important; }
 .con-time {height: 20px;width: 80px;border-radius: 3px;background-color: #dadada;color: white;font-size: 11px;line-height: 20px;text-align: center;text-align: center;display: block;margin: 20px auto 10px auto;}
 .con-box{border-radius:6px;box-shadow: 0px 0px 10px #dadada;}
@@ -307,7 +307,7 @@ ul,li{ padding:0; margin:0; list-style:none;}
 .information .form-bd{width: 75%;}
 .information .form-long-hd{width: 25%;color:#888;}
 .information .form-long-bd{width:280px;margin: 0 auto;}
-.information-bottom{background-color:#f8f8f8;box-shadow: 0px -4px 6px #dadada;min-height: 400px;}
+.information-bottom{background-color:#f8f8f8;box-shadow: 0px -4px 6px #dadada;min-height: 450px;}
 .information-bottom .infor-tit h1{font-size:16px;display: inline-block;}
 .information-bottom .con-form{border-radius: 4px;border: 1px solid #dadada;height: 120px;background-color: #fff;}
 .information-bottom .con-form .con-form-textarea{min-height: 40px; max-height: 70px;margin-left: auto; margin-right: auto; padding: 2.5%; outline: 0; line-height: 25px; word-wrap: break-word; overflow-x: hidden; overflow-y: auto;border:none;font-size: 16px;}
@@ -317,7 +317,7 @@ ul,li{ padding:0; margin:0; list-style:none;}
 .information-bottom .tianjiawenjian .tips{font-size: 15px;color: #999;display: inline-block;}
 .information-bottom .guanlian-con .icon-tianjiarenyuan{font-size: 33px;color:#28ce57;display: inline-block;height: 62px;line-height: 62px;}
 /*底部固定*/
-.tab-processing{height: 60px;background-color: #fff;border-top: 1px solid #dadada;}
+.tab-processing{height: 60px;background-color: #fff;border-top: 1px solid #dadada;position: fixed;bottom: 0px;width: 100%;}
 .tab-processing .tab-processing-button{text-align: center;line-height: 60px;height: 60px;}
 .tab-processing .tab-processing-button .keep{height: 35px;width: 110px;border-radius: 35px;background-color: #28ce57;border: none;font-size: 16px;color: #fff;letter-spacing: 1px;outline: none;}
 .tab-processing .tab-processing-button .return{height: 35px;width: 110px;border-radius: 35px;background-color: #e5e5e5;border: none;font-size: 16px;color: #888;letter-spacing: 1px;outline: none;}
